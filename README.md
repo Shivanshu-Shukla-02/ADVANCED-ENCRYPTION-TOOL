@@ -66,3 +66,7 @@ In conclusion, the task of building an AES-256 file encryption and decryption to
 
 **OUTPUT**
 
+javac AESFileEncryptionToolGUI.java
+java AESFileEncryptionToolGUI
+
+
